@@ -3,3 +3,6 @@ my first class of sk_shildus
 
 # test
 hello;
+
+# main merge 테스트
+될가요?
